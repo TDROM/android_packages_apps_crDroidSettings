@@ -647,29 +647,29 @@
   <string name="pulse_solid_dimen_category">Cài đặt chế độ đường liền nét</string>
   <string name="fling_lavalamp_color_from">Màu bắt đầu Đèn dung nham</string>
   <string name="fling_lavalamp_color_to">Màu kết thúc Đèn dung nham</string>
-  <string name="pulse_custom_buttons_opacity_title">Smartbar buttons opacity on Pulse</string>
-  <string name="pulse_auto_color_title">Automatic Pulse color</string>
-  <string name="pulse_auto_color_summary">Sync color with album arts. Overrides Lava Lamp and lines opacity.</string>
+  <string name="pulse_custom_buttons_opacity_title">Độ mờ nút bấm thanh thông minh khi nhấp nháy</string>
+  <string name="pulse_auto_color_title">Màu sắc nhấp nháy tự động</string>
+  <string name="pulse_auto_color_summary">Đồng bộ hóa màu sắc với ảnh album. Ghi đè Đèn Dung Nham và độ mờ đường viền.</string>
   <!-- Pulse config -->
-  <string name="pulse_custom_dimen">Bar width</string>
-  <string name="pulse_custom_div">Bar spacing</string>
-  <string name="pulse_filled_block_size">Block size</string>
-  <string name="pulse_empty_block_size">Block spacing</string>
+  <string name="pulse_custom_dimen">Độ rộng thanh</string>
+  <string name="pulse_custom_div">Khoảng cách thanh</string>
+  <string name="pulse_filled_block_size">Kích thước khối</string>
+  <string name="pulse_empty_block_size">Khoảng cách khối</string>
   <!-- Navbar height -->
-  <string name="navigation_bar_size_title">Bar size</string>
-  <string name="portrait_title">Portrait height</string>
-  <string name="land_vert_title">Landscape width</string>
-  <string name="land_hor_title">Landscape height</string>
-  <string name="positive_done">Done</string>
+  <string name="navigation_bar_size_title">Kích thước thanh</string>
+  <string name="portrait_title">Chiều cao nằm dọc</string>
+  <string name="land_vert_title">Chiều rộng nằm ngang</string>
+  <string name="land_hor_title">Chiều cao nằm ngang</string>
+  <string name="positive_done">Xong</string>
   <!-- Stock navbar -->
-  <string name="navbar_settings_title">Stock navbar settings</string>
+  <string name="navbar_settings_title">Cài đặt thanh điều hướng mặc định</string>
   <string name="navabar_settings_summary">Launch stock navbar tuner controls</string>
   <!-- SmartBar -->
-  <string name="smartbar_category">Smartbar</string>
-  <string name="smartbar_settings_title">Smartbar settings</string>
-  <string name="smartbar_settings_summary">Fully-customizable navigation bar</string>
-  <string name="smartbar_editor_title">Start edit mode</string>
-  <string name="smartbar_editor_summary">Open smartbar buttons editor</string>
+  <string name="smartbar_category">Thanh thông minh</string>
+  <string name="smartbar_settings_title">Cài đặt Thanh thông minh</string>
+  <string name="smartbar_settings_summary">Tùy biến thanh điều hướng đầy đủ</string>
+  <string name="smartbar_editor_title">Bắt đầu chế độ chỉnh sửa</string>
+  <string name="smartbar_editor_summary">Mở trình chỉnh sửa nút thanh thông minh</string>
   <string name="smartbar_help_policy_notice_summary">When in editor mode, medium press and drag a button to change its position or long press a button to show the edit menu. Button position may be changed while menu is showing.\n\nSetting a double tap action will delay single tap a bit.</string>
   <string name="smartbar_context_menu_position_title">Context buttons layout position</string>
   <string name="smartbar_context_menu_position_summary">Set the position of contextual buttons such as menu and ime selector</string>
