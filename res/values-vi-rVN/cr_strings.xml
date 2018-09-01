@@ -612,11 +612,11 @@
   <string name="fling_longpress_summary">Tăng hoặc giảm thời gian cần thiết để thực hiện nhấn giữ</string>
   <string name="fling_keyboard_cursors_title">Thao tác bàn phím năng động</string>
   <string name="fling_keyboard_cursors_summary">Nhấn đúp vào trái và phải sẽ trở thành tác vụ con trỏ chuột trái và phải nếu bàn phím được mở</string>
-  <string name="fling_logo_opacity_title">Fling logo opacity</string>
-  <string name="fling_factory_reset_title">Reset to stock</string>
-  <string name="fling_factory_reset_confirm">Are you sure you want to reset Fling to stock settings?</string>
-  <string name="fling_backup_current_config_title">Save profile</string>
-  <string name="fling_restore_config_title">Restore profile</string>
+  <string name="fling_logo_opacity_title">Độ mờ logo Fling</string>
+  <string name="fling_factory_reset_title">Thiết lập lại về gốc</string>
+  <string name="fling_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Fling về cài đặt gốc?</string>
+  <string name="fling_backup_current_config_title">Lưu cấu hình</string>
+  <string name="fling_restore_config_title">Khôi phục lại cấu hình</string>
   <string name="fling_config_name_edit_dialog_title">Fling profile name</string>
   <string name="fling_config_name_edit_dialog_message">Enter name or leave blank</string>
   <string name="fling_config_dialog_title">Fling profiles</string>
@@ -724,9 +724,9 @@
   <string name="status_bar_quick_qs_pulldown_right">Right</string>
   <string name="status_bar_quick_qs_pulldown_always">Always show quick settings on status bar pull down</string>
   <!-- Status bar - Clock -->
-  <string name="status_bar_clock_title">Clock &amp; date</string>
-  <string name="status_bar_clock_summary">Customize clock &amp; date</string>
-  <string name="status_bar_clock_seconds_title">Clock seconds</string>
+  <string name="status_bar_clock_title">Đổng hổ &amp; ngày</string>
+  <string name="status_bar_clock_summary">Tùy chỉnh đồng hồ &amp; ngày</string>
+  <string name="status_bar_clock_seconds_title">Đồng hồ giây</string>
   <string name="status_bar_clock_seconds_summary">Hiển thị giây tiếp theo để đồng hồ ở thanh trạng thái</string>
   <string name="status_bar_clock_position_title">Kiểu đồng hồ</string>
   <string name="status_bar_clock_position_right">Phải</string>
@@ -735,19 +735,19 @@
   <string name="status_bar_clock_position_hidden">Ẩn</string>
   <string name="status_bar_am_pm_title">Kiểu AM/PM</string>
   <string name="status_bar_am_pm_info">Đồng hồ dạng 24-giờ được bật</string>
-  <string name="status_bar_am_pm_normal">Normal</string>
-  <string name="status_bar_am_pm_small">Small</string>
-  <string name="status_bar_am_pm_hidden">Hidden</string>
+  <string name="status_bar_am_pm_normal">Bình thường</string>
+  <string name="status_bar_am_pm_small">Nhỏ</string>
+  <string name="status_bar_am_pm_hidden">Ẩn</string>
   <!-- Status bar - Battery -->
-  <string name="status_bar_battery_style_title">Battery style</string>
-  <string name="status_bar_battery_style_icon_portrait">Icon portrait</string>
-  <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
-  <string name="status_bar_battery_style_circle">Circle</string>
-  <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-  <string name="status_bar_battery_style_square">Square</string>
-  <string name="status_bar_battery_style_solid">Solid</string>
-  <string name="status_bar_battery_style_text">Text</string>
-  <string name="status_bar_battery_style_hidden">Hidden</string>
+  <string name="status_bar_battery_style_title">Kiểu thanh pin</string>
+  <string name="status_bar_battery_style_icon_portrait">Biểu tượng dọc</string>
+  <string name="status_bar_battery_style_icon_landscape">Biểu tượng nằm ngang</string>
+  <string name="status_bar_battery_style_circle">Hình tròn</string>
+  <string name="status_bar_battery_style_dotted_circle">Vòng chấm</string>
+  <string name="status_bar_battery_style_square">Hình vuông</string>
+  <string name="status_bar_battery_style_solid">Khối</string>
+  <string name="status_bar_battery_style_text">Văn bản</string>
+  <string name="status_bar_battery_style_hidden">Ẩn</string>
   <string name="status_bar_battery_style_tile_title">Override battery tile</string>
   <string name="status_bar_battery_style_tile_summary">Use same icon style as above in QS battery tile</string>
   <!-- Status bar - Battery custom charging symbol -->
