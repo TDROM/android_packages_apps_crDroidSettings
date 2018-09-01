@@ -748,49 +748,49 @@
   <string name="status_bar_battery_style_solid">Khối</string>
   <string name="status_bar_battery_style_text">Văn bản</string>
   <string name="status_bar_battery_style_hidden">Ẩn</string>
-  <string name="status_bar_battery_style_tile_title">Override battery tile</string>
-  <string name="status_bar_battery_style_tile_summary">Use same icon style as above in QS battery tile</string>
+  <string name="status_bar_battery_style_tile_title">Ghi đè lên biểu tượng pin</string>
+  <string name="status_bar_battery_style_tile_summary">Sử dụng phong cách biểu tượng tương tự trên QS</string>
   <!-- Status bar - Battery custom charging symbol -->
-  <string name="text_charging_symbol_title">Custom charging symbol for text style</string>
-  <string name="text_charging_symbol_dialog">Custom charging symbol near battery percentage text</string>
-  <string name="text_charging_symbol_default">Disabled</string>
-  <string name="text_charging_symbol_flash">Flash</string>
-  <string name="text_charging_symbol_tilde">Tilde</string>
+  <string name="text_charging_symbol_title">Ký hiệu sạc tùy chỉnh cho kiểu chữ</string>
+  <string name="text_charging_symbol_dialog">Ký tự sạc tùy chỉnh gần số phần trăm pin</string>
+  <string name="text_charging_symbol_default">Tắt</string>
+  <string name="text_charging_symbol_flash">Đèn flash</string>
+  <string name="text_charging_symbol_tilde">Dấu ngã</string>
   <!-- Status bar - Battery percentage -->
-  <string name="status_bar_battery_percentage_title">Battery percentage</string>
-  <string name="status_bar_battery_percentage_default">Hidden</string>
-  <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-  <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
+  <string name="status_bar_battery_percentage_title">Phần trăm pin</string>
+  <string name="status_bar_battery_percentage_default">Ẩn</string>
+  <string name="status_bar_battery_percentage_text_inside">Bên trong biểu tượng pin</string>
+  <string name="status_bar_battery_percentage_text_next">Bên cạnh biểu tượng pin</string>
   <!-- Status bar - icon blacklist -->
-  <string name="status_bar_icons_title">Status bar icons</string>
-  <string name="status_bar_icons_summary">Control which status bar icons are shown</string>
+  <string name="status_bar_icons_title">Biểu tượng thanh trạng thái</string>
+  <string name="status_bar_icons_summary">Kiểm soát những biểu tượng thanh trang thái được hiển thị</string>
   <!-- Power notification controls -->
-  <string name="power_notification_title">Power notification controls</string>
+  <string name="power_notification_title">Các điều khiển thông báo nguồn</string>
   <string name="power_notification_summary">Advanced notification controls and information</string>
-  <string name="sound_dnd_category">Do not disturb</string>
+  <string name="sound_dnd_category">Không làm phiền</string>
   <!-- Volume down enter do not disturb -->
-  <string name="volbtn_down_zen_title">Volume down</string>
-  <string name="volbtn_down_zen_summary">Allow volume down to enter DND mode</string>
+  <string name="volbtn_down_zen_title">Giảm âm lượng</string>
+  <string name="volbtn_down_zen_summary">Cho phép giảm âm lượng xuống để vào chế độ DND</string>
   <!-- Volume up exit do not disturb -->
-  <string name="volbtn_up_zen_title">Volume up</string>
-  <string name="volbtn_up_zen_summary">Allow volume up to exit DND mode</string>
+  <string name="volbtn_up_zen_title">Tăng âm lượng</string>
+  <string name="volbtn_up_zen_summary">Cho phép tăng âm lượng lên để thoát chế độ DND</string>
   <!-- Volume do not disturb switch -->
-  <string name="vol_zen_title">Volume panel</string>
-  <string name="vol_zen_summary">Show DND with volume controls</string>
+  <string name="vol_zen_title">Bảng điều chỉnh âm lượng</string>
+  <string name="vol_zen_summary">Hiển thị DND với bảng điều khiển âm lượng</string>
   <!-- Battery Bar -->
-  <string name="battery_bar_title">Battery bar</string>
-  <string name="battery_bar_summary">Display and customize battery bar above status bar</string>
-  <string name="battery_bar">Location</string>
-  <string name="battery_bar_no_navbar">Location</string>
-  <string name="battery_bar_location_hide">Hide</string>
-  <string name="battery_bar_location_statusbar">Statusbar</string>
-  <string name="battery_bar_location_top_navbar">Top of navbar</string>
-  <string name="battery_bar_location_bottom_navbar">Bottom of navbar</string>
-  <string name="battery_bar_color">Color</string>
-  <string name="battery_bar_charging_color">Charging color</string>
-  <string name="battery_bar_battery_low_color">Low battery color</string>
-  <string name="battery_bar_cat">Style</string>
-  <string name="battery_bar_style_title">Alignment</string>
+  <string name="battery_bar_title">Thanh hiển thị pin</string>
+  <string name="battery_bar_summary">Hiển thị và tuỳ chỉnh thanh pin trên thanh trạng thái</string>
+  <string name="battery_bar">Vị trí</string>
+  <string name="battery_bar_no_navbar">Vị trí</string>
+  <string name="battery_bar_location_hide">Ẩn</string>
+  <string name="battery_bar_location_statusbar">Thanh trạng thái</string>
+  <string name="battery_bar_location_top_navbar">Phía trên thanh điều hướng</string>
+  <string name="battery_bar_location_bottom_navbar">Phía dưới thanh điều hướng</string>
+  <string name="battery_bar_color">Màu sắc</string>
+  <string name="battery_bar_charging_color">Màu khi sạc</string>
+  <string name="battery_bar_battery_low_color">Màu pin yếu</string>
+  <string name="battery_bar_cat">Giao diện</string>
+  <string name="battery_bar_style_title">Canh lề</string>
   <string name="battery_bar_thickness_title">Thickness</string>
   <string name="battery_bar_animate_title">Charging animation</string>
   <string name="battery_bar_style_regular">Regular</string>
@@ -843,7 +843,7 @@
   <!-- Breathing Notifications -->
   <string name="breathing_notifications_category">Breathing notifications</string>
   <string name="missed_call_breath_title">Missed Call</string>
-  <string name="missed_call_breath_summary">Give breathing effect to missed call notifications in the statusbar</string>
+  <string name="missed_call_breath_summary">Hiệu ứng hơi thở cho thông báo cuộc gọi nhỡ trong thanh trạng thái</string>
   <string name="voicemail_breath_title">Voicemail</string>
   <string name="voicemail_breath_summary">Give breathing effect to voicemail notifications in the statusbar</string>
   <string name="sms_breath_title">SMS</string>
