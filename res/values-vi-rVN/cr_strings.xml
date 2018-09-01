@@ -844,64 +844,64 @@
   <string name="breathing_notifications_category">Breathing notifications</string>
   <string name="missed_call_breath_title">Missed Call</string>
   <string name="missed_call_breath_summary">Hiệu ứng hơi thở cho thông báo cuộc gọi nhỡ trong thanh trạng thái</string>
-  <string name="voicemail_breath_title">Voicemail</string>
-  <string name="voicemail_breath_summary">Give breathing effect to voicemail notifications in the statusbar</string>
-  <string name="sms_breath_title">SMS</string>
-  <string name="sms_breath_summary">Give breathing effect to SMS notifications in the statusbar</string>
+  <string name="voicemail_breath_title">Thư thoại</string>
+  <string name="voicemail_breath_summary">Hiệu ứng hơi thở cho thư thoại trong thanh trạng thái</string>
+  <string name="sms_breath_title">Tin nhắn SMS</string>
+  <string name="sms_breath_summary">Hiệu ứng hơi thở cho thư thoại trong thanh trạng thái</string>
   <!-- CPU Info -->
-  <string name="show_cpu_info">Show CPU info</string>
-  <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
+  <string name="show_cpu_info">Hiển thị thông tin CPU</string>
+  <string name="show_cpu_info_summary">Hiển thị thông tin CPU trên màn hình</string>
   <!-- Heads up -->
-  <string name="notification_heads_up_title">Heads up</string>
-  <string name="notification_heads_up_summary">Allow pop up notifications</string>
+  <string name="notification_heads_up_title">Hiện trên cùng</string>
+  <string name="notification_heads_up_summary">Cho phép bật lên thông báo</string>
   <!-- Heads up timeout -->
-  <string name="heads_up_category">Heads up</string>
-  <string name="heads_up_time_out_title">Time out</string>
+  <string name="heads_up_category">Hiện trên cùng</string>
+  <string name="heads_up_time_out_title">Hết giờ</string>
   <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-  <string name="heads_up_time_out_2sec">2 seconds</string>
-  <string name="heads_up_time_out_4sec">4 seconds</string>
-  <string name="heads_up_time_out_5sec">5 seconds</string>
-  <string name="heads_up_time_out_6sec">6 seconds</string>
-  <string name="heads_up_time_out_8sec">8 seconds</string>
-  <string name="heads_up_time_out_10sec">10 seconds</string>
+  <string name="heads_up_time_out_2sec">2 giây</string>
+  <string name="heads_up_time_out_4sec">4 giây</string>
+  <string name="heads_up_time_out_5sec">5 giây</string>
+  <string name="heads_up_time_out_6sec">6 giây</string>
+  <string name="heads_up_time_out_8sec">8 giây</string>
+  <string name="heads_up_time_out_10sec">10 giây</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Snooze timer</string>
-  <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-  <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-  <string name="heads_up_snooze_1min">1 minute</string>
-  <string name="heads_up_snooze_5min">5 minutes</string>
-  <string name="heads_up_snooze_10min">10 minutes</string>
-  <string name="heads_up_snooze_15min">15 minutes</string>
-  <string name="heads_up_snooze_20min">20 minutes</string>
+  <string name="heads_up_snooze_title">Thời gian báo lại</string>
+  <string name="heads_up_snooze_summary_one_minute">Vuốt lên trên thông báo nổi sẽ báo lại thông báo đó trong 1 phút</string>
+  <string name="heads_up_snooze_summary">Vuốt lên trên thông báo nổi sẽ báo lại thông báo đó trong <xliff:g id="number">%d</xliff:g> phút</string>
+  <string name="heads_up_snooze_disabled_summary">Bộ đếm thời gian báo lại bị tắt</string>
+  <string name="heads_up_snooze_1min">1 phút</string>
+  <string name="heads_up_snooze_5min">5 phút</string>
+  <string name="heads_up_snooze_10min">10 phút</string>
+  <string name="heads_up_snooze_15min">15 phút</string>
+  <string name="heads_up_snooze_20min">20 phút</string>
   <!-- Option to enable/disable scrolling cache -->
-  <string name="pref_scrollingcache_title">Scrolling cache</string>
-  <string name="pref_scrollingcache_force_enable">Force enable</string>
-  <string name="pref_scrollingcache_default_enable">Default enable</string>
-  <string name="pref_scrollingcache_default_disable">Default disable</string>
-  <string name="pref_scrollingcache_force_disable">Force disable</string>
+  <string name="pref_scrollingcache_title">Bộ nhớ cache cuộn</string>
+  <string name="pref_scrollingcache_force_enable">Buộc bật</string>
+  <string name="pref_scrollingcache_default_enable">Mặc định bật</string>
+  <string name="pref_scrollingcache_default_disable">Mặc định tắt</string>
+  <string name="pref_scrollingcache_force_disable">Buộc tắt</string>
   <!-- Optional screenshot type -->
-  <string name="screenshot_type_title">Partial screenshot</string>
-  <string name="screenshot_type_fullscreen">Take fullscreen screenshot</string>
-  <string name="screenshot_type_partial">Drag selection on the area for screenshot via volume keys</string>
+  <string name="screenshot_type_title">Chụp một phần màn hình</string>
+  <string name="screenshot_type_fullscreen">Chụp ảnh toàn màn hình</string>
+  <string name="screenshot_type_partial">Kéo lựa chọn vùng cần chụp màn hình thông qua phím âm lượng</string>
   <!-- Screenshot editor -->
-  <string name="screenshot_options_category">Screenshot options</string>
-  <string name="screenshot_edit_app">Screenshot editor</string>
-  <string name="screenshot_edit_app_summary">Select which image editor to use to edit screenshots with</string>
-  <string name="screenshot_edit_app_no_editor">No image editor available</string>
+  <string name="screenshot_options_category">Tùy chọn ảnh chụp màn hình</string>
+  <string name="screenshot_edit_app">Chỉnh sửa ảnh chụp màn hình</string>
+  <string name="screenshot_edit_app_summary">Lựa chọn trình sửa ảnh để sửa ảnh chụp màn hình</string>
+  <string name="screenshot_edit_app_no_editor">Không có trình chỉnh sửa ảnh nào</string>
   <!-- Three-fingers-swipe to screenshot -->
-  <string name="three_finger_gesture">Swipe to screenshot</string>
-  <string name="three_finger_gesture_summary">Swipe three fingers to take screenshot</string>
+  <string name="three_finger_gesture">Vuốt để chụp màn hình</string>
+  <string name="three_finger_gesture_summary">Vuốt ba ngón tay để ảnh chụp ảnh màn hình</string>
   <!-- Transparency porn -->
-  <string name="trans">Transparency</string>
-  <string name="trans_summary">Customize transparency level for various elements</string>
-  <string name="trans_qs">Quick settings</string>
-  <string name="trans_vol_dialog">Volume dialog</string>
-  <string name="trans_power_menu">Power menu</string>
-  <string name="qs_transparent_shade">QS shade opacity</string>
+  <string name="trans">Độ trong suốt</string>
+  <string name="trans_summary">Tùy chỉnh mức độ trong suốt</string>
+  <string name="trans_qs">Cài đặt nhanh</string>
+  <string name="trans_vol_dialog">Hộp thoại âm lượng</string>
+  <string name="trans_power_menu">Menu nguồn</string>
+  <string name="qs_transparent_shade">Độ trong suốt đầu trang Cài đặt nhanh</string>
   <string name="qs_stroke_title">QS shade border</string>
-  <string name="qs_stroke_disabled">Disabled</string>
-  <string name="qs_stroke_accent">Accent color</string>
+  <string name="qs_stroke_disabled">Đã vô hiệu</string>
+  <string name="qs_stroke_accent">Màu nhấn</string>
   <string name="qs_stroke_custom">Custom color</string>
   <string name="qs_stroke_color_title">QS shade border color</string>
   <string name="qs_stroke_thickness_title">QS shade border thickness</string>
